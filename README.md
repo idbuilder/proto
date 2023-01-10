@@ -1,2 +1,4 @@
-# proto
-protocol for id builder
+# protocol buffer defintion for id builder
+
+
+## How to build
